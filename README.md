@@ -19,24 +19,28 @@ $ npm start
 # Main functions
 
 1. Search recipe
+
 Search recipe by dish name.
 <a href="#" target="_blank">
 <img src="./src/img/search-recipe.png" />
 </a>
 
 2. See recipe details
+
 See details of ingredients, time required according to servings of each recipe
 <a href="#" target="_blank">
 <img src="./src/img/view-recipe.png" />
 </a>
 
 3. Add Bookmarks
+
 Bookmark your favorite recipe to save
 <a href="#" target="_blank">
 <img src="./src/img/add-bookmark.png" />
 </a>
 
 4. Add new recipe
+
 Add your personal recipe
 <a href="#" target="_blank">
 <img src="./src/img/add-recipe.png" />
